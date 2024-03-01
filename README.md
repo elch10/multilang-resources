@@ -21,3 +21,5 @@ pol: https://mowicpopolsku.com/polish-alphabet-pronunciation/
 por: https://en.wikipedia.org/wiki/Portuguese_orthography#Diacritics
 
 spa: https://beelinguapp.com/blog/guide-to-spanish-alphabet
+
+kaz: https://en.wikipedia.org/wiki/Kazakh_alphabets
