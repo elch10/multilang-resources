@@ -8,3 +8,4 @@ telugu: https://www.easytelugutyping.com/telugu/letters
 
 marathi: https://www.easyhindityping.com/marathi-alphabet or https://en.wikibooks.org/wiki/Marathi/Alphabet
 
+french: https://promova.com/alphabet/french-alphabet
