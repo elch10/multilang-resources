@@ -1,6 +1,6 @@
 # multilang-resources
 
-hindi: https://indiatyping.com/index.php/typing-tips/hindi-alphabet
+hindi: https://indiatyping.com/index.php/typing-tips/hindi-alphabet + https://arxiv.org/pdf/2211.09536.pdf (Indo-Aryan languages was converted using https://aksharamukha.appspot.com/converter)
 
 chhattisgarhi: https://www.omniglot.com/writing/chhattisgarhi.htm
 
