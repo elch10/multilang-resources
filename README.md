@@ -4,6 +4,8 @@ Devangari https://en.wiktionary.org/wiki/Appendix:Unicode/Devanagari ; https://g
 
 hindi: https://indiatyping.com/index.php/typing-tips/hindi-alphabet + https://arxiv.org/pdf/2211.09536.pdf (Indo-Aryan languages was converted using https://aksharamukha.appspot.com/converter)
 
+hindi based silero https://habr.com/ru/articles/674358/
+
 chhattisgarhi: https://www.omniglot.com/writing/chhattisgarhi.htm
 
 telugu: https://www.easytelugutyping.com/telugu/letters
