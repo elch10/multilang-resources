@@ -1,5 +1,7 @@
 # multilang-resources
 
+Devangari https://en.wiktionary.org/wiki/Appendix:Unicode/Devanagari
+
 hindi: https://indiatyping.com/index.php/typing-tips/hindi-alphabet + https://arxiv.org/pdf/2211.09536.pdf (Indo-Aryan languages was converted using https://aksharamukha.appspot.com/converter)
 
 chhattisgarhi: https://www.omniglot.com/writing/chhattisgarhi.htm
